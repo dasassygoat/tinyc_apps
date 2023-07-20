@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/time02.c.dir/greet04.c.o CMakeFiles/time02.c.dir/moonphase_func.c.o CMakeFiles/time02.c.dir/pithy01.c.o CMakeFiles/time02.c.dir/pithy02.c.o CMakeFiles/time02.c.dir/pithy03.c.o CMakeFiles/time02.c.dir/pithy04.c.o CMakeFiles/time02.c.dir/pithy05.c.o CMakeFiles/time02.c.dir/time01.c.o -o time02.c 

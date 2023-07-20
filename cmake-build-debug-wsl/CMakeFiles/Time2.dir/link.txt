@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Time2.dir/time02.c.o -o Time2 
