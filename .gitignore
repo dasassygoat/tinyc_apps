@@ -50,3 +50,22 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Specific executables
+greet3
+greet4
+greetings
+moonphase_func
+nato02
+nato04
+nato91
+pithy01
+pithy02
+pithy03
+pithy04
+pithy05
+time01
+time02
+weather
+word_parse01
+
