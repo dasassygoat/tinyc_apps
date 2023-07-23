@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/tinyc_apps.dir/time02.c.o -o tinyc_apps 
+/usr/bin/cc -g CMakeFiles/tinyc_apps.dir/nato02.c.o -o tinyc_apps 

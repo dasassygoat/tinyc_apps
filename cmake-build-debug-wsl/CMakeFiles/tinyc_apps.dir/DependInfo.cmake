@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/d/development/src/github.com/journeyman32/tinyc_apps/time02.c" "CMakeFiles/tinyc_apps.dir/time02.c.o" "gcc" "CMakeFiles/tinyc_apps.dir/time02.c.o.d"
+  "/mnt/d/development/src/github.com/journeyman32/tinyc_apps/nato02.c" "CMakeFiles/tinyc_apps.dir/nato02.c.o" "gcc" "CMakeFiles/tinyc_apps.dir/nato02.c.o.d"
   )
 
 # Targets to which this target links.

@@ -69,28 +69,28 @@ include CMakeFiles/tinyc_apps.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/tinyc_apps.dir/flags.make
 
-CMakeFiles/tinyc_apps.dir/time02.c.o: CMakeFiles/tinyc_apps.dir/flags.make
-CMakeFiles/tinyc_apps.dir/time02.c.o: ../time02.c
-CMakeFiles/tinyc_apps.dir/time02.c.o: CMakeFiles/tinyc_apps.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/development/src/github.com/journeyman32/tinyc_apps/cmake-build-debug-wsl/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/tinyc_apps.dir/time02.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/tinyc_apps.dir/time02.c.o -MF CMakeFiles/tinyc_apps.dir/time02.c.o.d -o CMakeFiles/tinyc_apps.dir/time02.c.o -c /mnt/d/development/src/github.com/journeyman32/tinyc_apps/time02.c
+CMakeFiles/tinyc_apps.dir/nato02.c.o: CMakeFiles/tinyc_apps.dir/flags.make
+CMakeFiles/tinyc_apps.dir/nato02.c.o: ../nato02.c
+CMakeFiles/tinyc_apps.dir/nato02.c.o: CMakeFiles/tinyc_apps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/development/src/github.com/journeyman32/tinyc_apps/cmake-build-debug-wsl/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/tinyc_apps.dir/nato02.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/tinyc_apps.dir/nato02.c.o -MF CMakeFiles/tinyc_apps.dir/nato02.c.o.d -o CMakeFiles/tinyc_apps.dir/nato02.c.o -c /mnt/d/development/src/github.com/journeyman32/tinyc_apps/nato02.c
 
-CMakeFiles/tinyc_apps.dir/time02.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/tinyc_apps.dir/time02.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/development/src/github.com/journeyman32/tinyc_apps/time02.c > CMakeFiles/tinyc_apps.dir/time02.c.i
+CMakeFiles/tinyc_apps.dir/nato02.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/tinyc_apps.dir/nato02.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/development/src/github.com/journeyman32/tinyc_apps/nato02.c > CMakeFiles/tinyc_apps.dir/nato02.c.i
 
-CMakeFiles/tinyc_apps.dir/time02.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/tinyc_apps.dir/time02.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/development/src/github.com/journeyman32/tinyc_apps/time02.c -o CMakeFiles/tinyc_apps.dir/time02.c.s
+CMakeFiles/tinyc_apps.dir/nato02.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/tinyc_apps.dir/nato02.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/development/src/github.com/journeyman32/tinyc_apps/nato02.c -o CMakeFiles/tinyc_apps.dir/nato02.c.s
 
 # Object files for target tinyc_apps
 tinyc_apps_OBJECTS = \
-"CMakeFiles/tinyc_apps.dir/time02.c.o"
+"CMakeFiles/tinyc_apps.dir/nato02.c.o"
 
 # External object files for target tinyc_apps
 tinyc_apps_EXTERNAL_OBJECTS =
 
-tinyc_apps: CMakeFiles/tinyc_apps.dir/time02.c.o
+tinyc_apps: CMakeFiles/tinyc_apps.dir/nato02.c.o
 tinyc_apps: CMakeFiles/tinyc_apps.dir/build.make
 tinyc_apps: CMakeFiles/tinyc_apps.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/development/src/github.com/journeyman32/tinyc_apps/cmake-build-debug-wsl/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable tinyc_apps"

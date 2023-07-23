@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tinyc_apps.dir/time02.c.o"
-  "CMakeFiles/tinyc_apps.dir/time02.c.o.d"
+  "CMakeFiles/tinyc_apps.dir/nato02.c.o"
+  "CMakeFiles/tinyc_apps.dir/nato02.c.o.d"
   "tinyc_apps"
   "tinyc_apps.pdb"
 )

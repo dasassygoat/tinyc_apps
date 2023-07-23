@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/development/src/github.com/journeyman32/tinyc_apps/time02.c">
+		<Unit filename="/mnt/d/development/src/github.com/journeyman32/tinyc_apps/nato02.c">
 			<Option target="tinyc_apps"/>
 		</Unit>
 		<Unit filename="/mnt/d/development/src/github.com/journeyman32/tinyc_apps/CMakeLists.txt">

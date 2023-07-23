@@ -129,29 +129,29 @@ tinyc_apps/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/build
 .PHONY : tinyc_apps/fast
 
-time02.o: time02.c.o
-.PHONY : time02.o
+nato02.o: nato02.c.o
+.PHONY : nato02.o
 
 # target to build an object file
-time02.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/time02.c.o
-.PHONY : time02.c.o
+nato02.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/nato02.c.o
+.PHONY : nato02.c.o
 
-time02.i: time02.c.i
-.PHONY : time02.i
+nato02.i: nato02.c.i
+.PHONY : nato02.i
 
 # target to preprocess a source file
-time02.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/time02.c.i
-.PHONY : time02.c.i
+nato02.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/nato02.c.i
+.PHONY : nato02.c.i
 
-time02.s: time02.c.s
-.PHONY : time02.s
+nato02.s: nato02.c.s
+.PHONY : nato02.s
 
 # target to generate assembly for a file
-time02.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/time02.c.s
-.PHONY : time02.c.s
+nato02.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tinyc_apps.dir/build.make CMakeFiles/tinyc_apps.dir/nato02.c.s
+.PHONY : nato02.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... tinyc_apps"
-	@echo "... time02.o"
-	@echo "... time02.i"
-	@echo "... time02.s"
+	@echo "... nato02.o"
+	@echo "... nato02.i"
+	@echo "... nato02.s"
 .PHONY : help
 
 
