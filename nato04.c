@@ -50,11 +50,6 @@ int main(int argc, char *argv[]){
         exit(1);
     }
 
-    while(!feof(n)){
-        fgets(phrase,64,n);
-    }
-
-
     while (!feof(n)) {
         fgets(phrase, 64, n);
         match = strtok(phrase, " ,.!?=()[]{}'\"");
