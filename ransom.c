@@ -18,3 +18,5 @@ int main(){
 
     return(0);
 }
+
+//echo “Give me all your money” | ./hostage > ransom_note.txt
