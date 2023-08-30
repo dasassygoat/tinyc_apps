@@ -4,7 +4,6 @@
 int main()
 {
     int ch;
-
     while ((ch = getchar()) != EOF)
     {
         if (isalpha(ch))
