@@ -6,6 +6,7 @@ int main()
     int ch;
     while ((ch = getchar()) != EOF)
     {
+        // checks if ch is a letter
         if (isalpha(ch))
         {
             if (toupper(ch) >= 'A' && toupper(ch) <= 'M')
