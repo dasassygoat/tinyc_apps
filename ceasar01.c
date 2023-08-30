@@ -11,7 +11,7 @@ int main()
         {
             if (toupper(ch) >= 'A' && toupper(ch) <= 'M')
             {
-                ch += 12;
+                ch += 13;
             }
             else
             {
